@@ -92,3 +92,7 @@ Reference for removing dollar sign with Pandas in python
 
 https://stackoverflow.com/questions/38516481/trying-to-remove-commas-and-dollars-signs-with-pandas-in-python - Line 27 of PyCitySchools_starter.iypnb code
 
+Reference for difference between Charter and District schools
+
+https://www.thecanadianencyclopedia.ca/en/article/charter-schools#:~:text=Charter%20Schools-,A%20charter%20school%20is%20a%20public%20school%20that%20functions%20semiautonomously,students%20or%20charge%20tuition%20fees.
+
